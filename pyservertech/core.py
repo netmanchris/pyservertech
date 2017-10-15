@@ -71,4 +71,3 @@ def power_off(myauth, socket_num):
 
 
 
-
